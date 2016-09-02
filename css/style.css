@@ -10,6 +10,11 @@
 }
 @font-face {
     font-family: Roboto;
+    src: url(../fonts/Roboto-Regular.ttf);
+    font-weight: 200;
+}
+@font-face {
+    font-family: Roboto;
     src: url(../fonts/Roboto-Bold.ttf);
     font-weight: 500;
 }
@@ -281,4 +286,136 @@
 ::-webkit-scrollbar-thumb {
     border-radius: 10px;
     -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+}
+.title-cart{
+    border-bottom: 1px solid #323133;
+    padding: 30px 0px 20px 0px;
+}
+.title-item-cart{
+    border-bottom: 1px solid #909092;
+    padding: 20px 0px 10px 0px;
+}
+.img-cart img{
+    width: 88%;
+}
+.price-one{
+    text-align: right;
+}
+.price-one ul{
+    list-style: none;
+}
+.price-one ul li{
+    display: inline-block;
+    padding: 0px 15px;
+}
+.price-one ul li p{
+    font-size: 18px;
+    margin: 0px;
+    font-weight: 200;
+}
+.price-one ul li:last-of-type{
+    width: 16%;
+    padding-left: 0px !important;
+    padding-right: 0px;
+}
+.price-one ul li input{
+    width: 100%;
+    border: 2px solid #a7a5a6;
+    border-radius: 5px;
+    padding: 1px 6px;
+    margin-top: -1px;
+}
+.info-cart p, .info-cart h4{
+    font-size: 18px;
+}
+.info-cart p{
+    font-weight: 200;
+    line-height: 1.1;
+}
+.info-cart h4{
+    margin: 0px;
+}
+.info-cart button{
+    color: #909092;
+    border: 2px solid #909092;
+    background: #fff;
+    border-radius: 5px;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+.info-cart button:first-of-type{
+    padding: 4px 24px;
+}
+.info-cart button:last-of-type{
+    padding: 4px 10px;
+}
+.info-cart h3{
+    font-size: 18px;
+    margin-top: 40px;
+    margin-bottom: 0px;
+}
+.price-one-product h4{
+    margin-top: 3px;
+    text-align: right;
+}
+.cart-products{
+    padding: 20px 0px 35px 0px;
+    border-bottom: 1px solid #909092;
+}
+.cost{
+    border-bottom: 1px solid #909092;
+    padding: 10px 0px 5px 0px;
+}
+.title-cost h4, .title-cost h5{
+    font-size: 18px;
+    font-weight: 500;
+}
+.title-cost h4{
+    color: #a7a5a6;
+}
+.title-cost h5{
+    color: #d7d7d6;
+}
+.all-cost h4{
+    color: #3e3e3c;
+    text-align: right;
+}
+.check-out{
+    padding: 32px 0px;
+    border-bottom: 1px solid #909092;
+}
+.btn-check-out button{
+    color: #fff;
+    font-weight: 500;
+    font-size: 18px;
+    padding: 12px 22px;
+    background: #d46056;
+    border: 0px;
+}
+.title-like h4{
+    color: #909092;
+    font-weight: 200;
+    margin-bottom: 30px;
+}
+.img-might-like, .item-might-like{
+    margin: 0px 23px;
+}
+.margin-l0{
+    margin-left: 0px;
+    margin-right: 46px;
+}
+.margin-r0{
+    margin-right: 0px;
+    margin-left: 46px;
+}
+.img-might-like img{
+    width: 100%;
+}
+.item-might-like p{
+    color: #909092;
+    margin-top: 10px;
+}
+.might-like{
+    padding: 20px 0px 50px 0px;
 }
