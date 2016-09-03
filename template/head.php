@@ -10,6 +10,7 @@ and open the template in the editor.
         <script src="js/jquery.min.js" type="text/javascript"></script>
         <script src="js/bootstrap.min.js" type="text/javascript"></script>
         <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+        <script src="js/load.js" type="text/javascript"></script>
         <link href="css/style.css" rel="stylesheet" type="text/css"/>
         <title></title>
     </head>

@@ -419,3 +419,147 @@
 .might-like{
     padding: 20px 0px 50px 0px;
 }
+.payment-form{
+    width: 100%;
+    font-size: 18px;
+    padding: 6px 18px;
+    border-radius: 12px;
+    border: 1px solid #323133;
+    margin-bottom: 25px;
+}
+select.payment-form{
+    background: #d7d7d6;
+    border: 1px solid #d7d7d6;
+}
+.field{
+    margin-bottom: 5px;
+}
+.field label{
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+.div-form{
+    padding: 40px 0px 10px 0px;
+    border-bottom: 1px solid #323133;
+}
+.uncheck.checked{
+    background: #323133;
+}
+.uncheck{
+    background: #d7d7d6;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+    margin-top: 4px;
+    margin-bottom: 15px;
+}
+.radio-method input{
+    display: none;
+}
+.text-method p{
+    font-size: 18px;
+    color: #a7a5a6;
+}
+.text-method p span{
+    font-style: italic;
+    font-weight: 200;
+}
+.text-active.text-method p{
+    color: #323133;
+}
+.payment-method{
+    padding: 30px 0px 20px 0px;
+    border-bottom: 1px solid #909092;
+}
+.table-bordered{
+    border: 0px;
+}
+.table-bordered>thead>tr>td, .table-bordered>thead>tr>th{
+    border-bottom: 0px;
+}
+.border-t0 td{
+    border-top: 0px !important;
+}.border-b0 td{
+    border-bottom: 0px !important;
+}
+.table thead tr th{
+    padding-bottom: 0px;
+    padding-top: 0px;
+    font-size: 18px;
+    color: #323133;
+}
+.table tbody tr td{
+    padding-top: 20px ;
+    padding-bottom: 30px ;
+    font-size: 15px;
+    color: #909092;
+    font-weight: 200;
+}
+.table-payment{
+    padding: 20px 0px;
+    border-bottom: 1px solid #909092;
+}
+.fill-discount{
+    text-align: right;
+}
+.fill-discount label{
+    color: #323133;
+    font-size: 18px;
+}
+.form-discount{
+    border: 1px solid #a7a5a6;
+    border-radius: 12px;
+    padding: 7px 10px;
+    margin-left: 15px;
+}
+.btn-use{
+    margin-left: 15px;
+    color: #fff;
+    border: 1px solid #d7d7d6;
+    border-radius: 7px;
+    background: #d7d7d6;
+    padding: 5px 31px;
+    font-size: 18px;
+}
+.discount{
+    padding: 16px 0px;
+    border-bottom: 1px solid #909092;
+}
+.bill h4{
+    font-weight: 300;
+    color: #909092;
+}
+.bill p{
+    color: #f2d6c9;
+    font-size: 18px;
+}
+.bill.all h4{
+    color: #323133;
+}
+.bill.all p{
+    color: #d46056;
+}
+.bill{
+    padding: 5px 0px 10px 0px;
+}
+.btn-pay{
+    text-align: right;
+    padding-top: 5px;
+}
+.btn-pay button{
+    border: 2px solid #d46056;
+    border-radius: 12px;
+    font-size: 18px;
+    padding: 8px 20px;
+    background: #fff;
+    color: #d46056;
+}
+.info-bank p{
+    color: #909092;
+    font-size: 13px;
+}
+.pay-bill{
+    padding: 22px 0px 52px 0px;
+    border-top: 1px solid #909092;
+}
