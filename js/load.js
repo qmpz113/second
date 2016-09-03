@@ -8,4 +8,10 @@ $(document).ready(function(){
         $('.text-method[number = ' + y + ']').addClass('text-active');
         $('.text-method[number != ' + y + ']').removeClass('text-active');
     });
+    $('.item-lookbook1_alt_details img').click(function () {
+        var y = $(this).attr('number');
+        $('.content-img-lookbook[number = ' + y + ']').fadeIn();
+        $('.content-img-lookbook[number != ' + y + ']').fadeOut();
+    });
 });
+

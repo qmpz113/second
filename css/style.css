@@ -170,7 +170,7 @@
     color: #000000 !important;
 }
 .item-img{
-    
+
 }
 .padding-b-30{
     padding-bottom: 30px;
@@ -277,12 +277,12 @@
 ::-webkit-scrollbar {
     width: 12px;
 }
- 
+
 ::-webkit-scrollbar-track {
     -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
     border-radius: 10px;
 }
- 
+
 ::-webkit-scrollbar-thumb {
     border-radius: 10px;
     -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
@@ -562,4 +562,199 @@ select.payment-form{
 .pay-bill{
     padding: 22px 0px 52px 0px;
     border-top: 1px solid #909092;
+}
+.thanks{
+    padding: 35px 0px 60px 0px;
+}
+.thanks h1{
+    font-weight: 200;
+    font-size: 35px;
+    color: #d7d7d6;
+}
+.thanks p{
+    font-weight: 200;
+    font-size: 35px;
+    color: #ffd7ca;
+    margin-top: 60px;
+    margin-bottom: 50px;
+}
+.thanks button{
+    font-size: 18px;
+    color: #909092;
+    border: 1px solid #909092;
+    background: #fff;
+    border-radius: 9px;
+    padding: 7px 20px;
+}
+.lookbook1_alt{
+    background: #323133;
+    padding-bottom: 190px;
+}
+.title-lookbook{
+    padding-top: 30px;
+}
+.title-lookbook h1{
+    color: #fff;
+    font-weight: 300;
+}
+.years h1{
+    color: #fff;
+    font-weight: 100;
+}
+.years{
+    padding: 50px 0px 35px 0px;
+    border-bottom: 1px solid #d7d7d6;
+}
+.text-img{
+    margin-top: -65px;
+    padding-left: 25px;
+}
+.text-img p{
+    color: #323133;
+    font-size: 18px;
+    opacity: 0;
+    transition-duration: 0.5s;
+}
+.img-lookbook img{
+    width: 100%;
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+    opacity: 1;
+}
+.img-lookbook:hover{
+    background: #ffd7ca;
+}
+.img-lookbook:hover img{
+    opacity: 0.5;
+}
+.img-lookbook:hover .text-img p{
+    opacity: 1;
+}
+.margin-l8{
+    margin-left: 8px;
+}
+.margin-r8{
+   margin-right: 8px;
+}
+.item-lookbook{
+    padding: 23px 0px;
+}
+.padding-lookbook{
+    padding-top: 23px;
+}
+.item-lookbook1 img{
+    width: 100%;
+}
+.text-slide-lookbook{
+    color: #fff;
+    margin-bottom: -287px;
+    position: relative;
+    z-index: 1000;
+    padding-left: 8.33333%;
+}
+.text-slide-lookbook h1{
+    margin: 45px 0px 98px 0px;
+    font-weight: 300;
+}
+.text-slide-lookbook h2{
+    margin-top: 25px;
+    font-weight: 500;
+}
+.hr{
+    border: 2px solid #fff;
+    width: 25px;
+}
+.slick-next:before, .slick-prev:before{
+    font-size: 0px;
+}
+.slick-arrow{
+    z-index: 1000;
+}
+.slide-lookbook1 .slick-prev{
+    background: url('../img/left-arrow-copy.png') no-repeat !important;
+    left: 130px;
+    width: 48px;
+    height: 48px;
+}
+.slide-lookbook1 .slick-next{
+    background: url('../img/left-arrow.png') no-repeat !important;
+    right: 130px;
+    width: 48px;
+    height: 48px;
+}
+.lookbook1_alt_details{
+    background: #323133;
+}
+.back-tab a{
+    color: #fff;
+    font-weight: 100;
+    font-size: 18px;
+    text-decoration: none;
+}
+.back-tab{
+    padding: 85px 0px 45px 0px;
+    border-bottom: 1px solid #d7d7d6;
+}
+.text-title-lookbook_alt_details h1{
+    font-size: 35px;
+    font-weight: 100;
+    color: #fff;
+}
+.item-lookbook1_alt_details img{
+    width: 80%;
+    margin: auto;
+}
+.slide-lookbook1_alt_details{
+    margin: 60px 60px 45px 60px;
+}
+.slide-lookbook1_alt_details .slick-prev{
+    background: url('../img/left.png') no-repeat !important;
+    left: -55px;
+}
+.slide-lookbook1_alt_details .slick-next{
+    background: url('../img/right.png') no-repeat !important;
+    right: -55px;
+}
+.content-img-lookbook{
+    display: none;
+    padding-bottom: 140px;
+}
+.content-img-lookbook img{
+    width: 100%;
+}
+.content-about_us h2{
+    color: #909092;
+    font-size: 35px;
+    font-weight: 200;
+    margin: 35px 0px;
+}
+.content-about_us{
+    padding: 20px 0px 15px 0px;
+}
+.each-img img{
+    width: 100%;
+}
+.margin-r26{
+    margin-right: 26px;
+}
+.img-about_us{
+    padding-bottom: 70px;
+}
+.title-language1{
+    background: #323133;
+}
+.title-language2{
+    background: url('../img/Layer-6-copy.png');
+    background-size: cover;
+}
+.padding-right{
+    padding-right: 0px;
+}
+.title-language1 h2, .title-language2 h2{
+    color: #fff;
+    font-size: 25px;
+    font-weight: 300;
+    text-align: center;
+    padding: 360px 0px;
+    margin: 0px;
 }
