@@ -12,7 +12,7 @@ $('.slide-lookbook1_alt_details').slick({
         slidesToShow: 4,
         slidesToScroll: 2,
         infinite: true,
-        dots: true
+        dots: false
       }
     },
     {

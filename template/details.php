@@ -38,7 +38,7 @@
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-md-6">
+                        <div class="col-md-6 col-xs-6">
                             <div class="info-product">
                                 <h5>Size</h5>
                                 <select class="select-form">
@@ -49,7 +49,7 @@
                                 </select>
                             </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6 col-xs-6">
                             <div class="info-product">
                                 <h5>Quantity</h5>
                                 <select class="select-form">

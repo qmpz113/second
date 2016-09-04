@@ -25,12 +25,12 @@
             <div class="col-md-offset-1 col-md-10">
                 <div class="img-about_us">
                     <div class="row">
-                        <div class="col-md-4">
-                            <div class="each-img  margin-r26">
+                        <div class="col-md-4 col-xs-4">
+                            <div class="each-img1">
                                 <img src="img/tumblr_nuxhwk3ULt1td2cl7o1_1280.png"/>
                             </div>
                         </div>
-                        <div class="col-md-8">
+                        <div class="col-md-8 col-xs-8">
                             <div class="each-img">
                                 <img src="img/tumblr_nu9es0hhMg1td2cl7o1_12801.png"/>
                             </div>

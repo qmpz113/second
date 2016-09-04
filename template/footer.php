@@ -2,7 +2,7 @@
     <div class="container">
         <div class="content-contact">
             <div class="row">
-                <div class="col-md-offset-1 col-md-3">
+                <div class="col-md-offset-1 col-md-3 col-sm-7 col-sm-offset-0">
                     <div class="text-contact">
                         <h4>Contact Us</h4>
                         <p class="deactive">hello@uptosecond.com<br/>
@@ -12,7 +12,7 @@
                             hello@uts.com </p>
                     </div>
                 </div>
-                <div class="col-md-2">
+                <div class="col-md-2 col-sm-5">
                     <div class="text-contact">
                         <h4>Visit Us</h4>
                         <a class="deactive">Our Stores</a>
@@ -21,12 +21,12 @@
                         <a> Instagram</a>
                     </div>
                 </div>
-                <div class="col-md-2">
+                <div class="col-md-2 col-sm-7">
                     <div class="text-contact text-center">
                         <img src="img/Clock.png"/>
                     </div>
                 </div>
-                <div class="col-md-2 col-md-offset-1">
+                <div class="col-md-2 col-md-offset-1 col-sm-5">
                     <div class="text-contact">
                         <h4>UptoSeconds</h4>
                         <a class="deactive">About Us</a><br/>

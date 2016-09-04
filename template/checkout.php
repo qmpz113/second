@@ -90,26 +90,26 @@
             <div class="col-md-offset-1 col-md-10">
                 <div class="payment-method">
                     <div class="row">
-                        <div class="col-md-1">
+                        <div class="col-md-1 col-xs-2">
                             <div class="radio-method">
                                 <input name="payment" type="radio" class="radio-input" checked="" number="1"/>
                                 <p class="uncheck checked" number="1"></p>
                             </div>
                         </div>
-                        <div class="col-md-9">
+                        <div class="col-md-9 col-xs-10">
                             <div class="text-method text-active" number="1">
                                 <p>Thanh toán tại nhà</p>
                             </div>
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-md-1">
+                        <div class="col-md-1 col-xs-2">
                             <div class="radio-method">
                                 <input name="payment" type="radio" class="radio-input" number="2"/>
                                 <p class="uncheck" number="2"></p>
                             </div>
                         </div>
-                        <div class="col-md-9">
+                        <div class="col-md-9 col-xs-10">
                             <div class="text-method" number="2">
                                 <p>Thanh toán trực tuyến an toàn (ATM, VISA, MASTERCARD...) qua Bảo Kim<br/> 
                                     <span>(Đăng nhập để thực hiện chức năng này)</span></p>
@@ -123,7 +123,7 @@
             <div class="col-md-offset-1 col-md-10">
                 <div class="table-payment">
                     <div class="row">
-                        <div class="col-md-12">
+                        <div class="col-md-12 col-xs-12">
                             <table class="table table-bordered">
                                 <thead>
                                     <tr>
