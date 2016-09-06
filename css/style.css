@@ -90,7 +90,7 @@
 }
 .mobile-menu-service ul{
     list-style: none;
-    text-align: right;
+    text-align: left;
 }
 .mobile-menu-service ul li{
     display: inline-block;
@@ -98,9 +98,6 @@
 .mobile-menu-service ul li a img{
     width: 30px;
     height: 30px;
-}
-.dropdown-menu{
-    left: -463%;
 }
 .dropdown-menu li{
     width: 100%;
@@ -945,7 +942,8 @@ select.payment-form{
         margin-top: 10px;
     }
     .menu-service ul li{
-        display: block;
+        display: inline-block;
+        width: 48%;
     }
     .menu-service ul li a{
         padding: 0px;
@@ -956,9 +954,7 @@ select.payment-form{
     .menu-products{
         display: none;
     }
-    .products{
-        display: none;
-    }
+
     .text-contact{
         text-align: center;
     }
