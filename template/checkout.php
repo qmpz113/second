@@ -174,31 +174,31 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-md-offset-1 col-md-2">
+            <div class="col-md-offset-1 col-md-2 col-xs-6">
                 <div class="bill">
                     <h4>Tổng tiền hàng</h4>
                     <p>1.800.000 VND</p>
                 </div>
             </div>
-            <div class="col-md-2">
+            <div class="col-md-2 col-xs-6">
                 <div class="bill">
                     <h4>Phí vận chuyển</h4>
                     <p>0 VND</p>
                 </div>
             </div>
-            <div class="col-md-2">
+            <div class="col-md-2 col-xs-6">
                 <div class="bill">
                     <h4>Chiết khấu</h4>
                     <p>0 VND</p>
                 </div>
             </div>
-            <div class="col-md-2">
+            <div class="col-md-2 col-xs-6">
                 <div class="bill">
                     <h4>Mã giảm giá</h4>
                     <p>0 VND</p>
                 </div>
             </div>
-            <div class="col-md-2">
+            <div class="col-md-2 col-xs-6 col-xs-offset-6">
                 <div class="bill all">
                     <h4>Tổng cộng</h4>
                     <p>1.800.000 VND</p>

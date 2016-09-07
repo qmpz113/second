@@ -25,13 +25,17 @@
                         </div>
                         <div class="col-md-3 col-sm-6">
                             <div class="info-cart">
-                                <h4>Slim Shorts</h4>
-                                <p>ID# 318931<br/>
-                                    Size: Small<br/>
-                                    Color: Varsity Orange</p>
-                                <button>Edit</button>
-                                <button>Remove</button>
-                                <h3>IN STOCK</h3>
+                                <div class="col-xs-6 col-md-12">
+                                    <h4>Slim Shorts</h4>
+                                    <p>ID# 318931<br/>
+                                        Size: Small<br/>
+                                        Color: Varsity Orange</p>
+                                </div>
+                                <div class="col-xs-6 col-md-12">
+                                    <button>Edit</button>
+                                    <button>Remove</button>
+                                    <h3>IN STOCK</h3>
+                                </div>
                             </div>
                         </div>
                         <div class="col-md-4 col-xs-8 col-sm-9 padding-res-0">
@@ -63,13 +67,17 @@
                         </div>
                         <div class="col-md-3 col-sm-6">
                             <div class="info-cart">
-                                <h4>Slim Shorts</h4>
-                                <p>ID# 318931<br/>
-                                    Size: Small<br/>
-                                    Color: Varsity Orange</p>
-                                <button>Edit</button>
-                                <button>Remove</button>
-                                <h3>IN STOCK</h3>
+                                <div class="col-xs-6 col-md-12">
+                                    <h4>Slim Shorts</h4>
+                                    <p>ID# 318931<br/>
+                                        Size: Small<br/>
+                                        Color: Varsity Orange</p>
+                                </div>
+                                <div class="col-xs-6 col-md-12">
+                                    <button>Edit</button>
+                                    <button>Remove</button>
+                                    <h3>IN STOCK</h3>
+                                </div>
                             </div>
                         </div>
                         <div class="col-md-4 col-xs-8 col-sm-9 padding-res-0">
@@ -137,7 +145,7 @@
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-md-3 col-sm-6">
+                        <div class="col-md-3 col-sm-6 col-xs-6">
                             <div class="img-might-like margin-l0">
                                 <img src="img/2590591712_6_1_1.png"/>
                             </div>
@@ -146,7 +154,7 @@
                                     500.000 VND</p>
                             </div>
                         </div>
-                        <div class="col-md-3 col-sm-6">
+                        <div class="col-md-3 col-sm-6 col-xs-6">
                             <div class="img-might-like">
                                 <img src="img/2590591712_6_1_1.png"/>
                             </div>
@@ -155,7 +163,7 @@
                                     500.000 VND</p>
                             </div>
                         </div>
-                        <div class="col-md-3 col-sm-6">
+                        <div class="col-md-3 col-sm-6 col-xs-6">
                             <div class="img-might-like">
                                 <img src="img/2590591712_6_1_1.png"/>
                             </div>
@@ -164,7 +172,7 @@
                                     500.000 VND</p>
                             </div>
                         </div>
-                        <div class="col-md-3 col-sm-6">
+                        <div class="col-md-3 col-sm-6 col-xs-6">
                             <div class="img-might-like margin-r0" >
                                 <img src="img/2590591712_6_1_1.png"/>
                             </div>
