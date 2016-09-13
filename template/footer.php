@@ -53,4 +53,5 @@
 </div>
 </div>
 </body>
+<script src="js/lazy_load.js" type="text/javascript"></script>
 </html>

@@ -162,7 +162,7 @@
             <div class="col-md-offset-1 col-md-10">
                 <div class="discount">
                     <div class="row">
-                        <div class="col-md-offset-6 col-md-6">
+                        <div class="col-md-offset-4 col-md-8">
                             <div class="fill-discount">
                                 <label>Mã giảm giá:</label>
                                 <input type="text" class="form-discount"/>
@@ -198,7 +198,7 @@
                     <p>0 VND</p>
                 </div>
             </div>
-            <div class="col-md-2 col-xs-6 col-xs-offset-6">
+            <div class="col-md-2 col-xs-6 col-xs-offset-6 col-md-offset-0">
                 <div class="bill all">
                     <h4>Tổng cộng</h4>
                     <p>1.800.000 VND</p>

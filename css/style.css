@@ -772,8 +772,17 @@ select.payment-form{
 }
 .title-language1{
     background: #323133;
+    transition-duration: 0.5s;
+}
+.title-language1:hover{
+    background: url('../img/Layer-6-copy.png');
+    background-size: cover;
 }
 .title-language2{
+    background: #000;
+    transition-duration: 0.5s;
+}
+.title-language2:hover{
     background: url('../img/Layer-6-copy.png');
     background-size: cover;
 }
@@ -793,6 +802,64 @@ select.payment-form{
 }
 .img-products img{
     width: 100%;
+}
+.random-product{
+    display: none;
+}
+.img-products{
+    opacity: 0;
+}
+.animation.img-products.in-view{
+    -webkit-animation: opacity 2.5s; 
+    -moz-animation: opacity 2.5s; 
+    -ms-animation: opacity 2.5s; 
+    -o-animation: opacity 2.5s; 
+    animation: opacity 2.5s;
+    -webkit-animation-fill-mode:forwards;  
+    -moz-animation-fill-mode:forwards;
+    animation-fill-mode:forwards;
+    -webkit-animation-delay: 0.5s;
+    animation-delay: 0.5s;
+}
+@keyframe opacity{
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
+@-moz-keyframes opacity{
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
+@-webkit-keyframes opacity{
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
+@-ms-keyframes opacity{
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
+@-o-keyframes opacity{
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
 }
 @media (max-width: 991px){
     .wrapper{
